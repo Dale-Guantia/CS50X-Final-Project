@@ -2,7 +2,7 @@
 
 ---
 
-#### Video Demo: [Click hear!](https://youtu.be/dQNWml8M-n0)
+#### Video Demo: [Click hear!](https://youtu.be/6Exq8OmzD1A)
 
 #### Description:
 This web application is developed using Python with Flask as the framework. It generates RGB and HEX values for the top 5 colors present in the user's uploaded image.
