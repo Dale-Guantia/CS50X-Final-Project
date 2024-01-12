@@ -86,7 +86,7 @@ This is a text file that introduces and explains my project. It contains informa
 ---
 
 1. Make sure your python version is up-to-date.
-2. Clone the project code. [Click here](https://github.com/code50/142967173/blob/main/project/project.py)
+2. Clone the project code. [Click here](https://github.com/Dale-Guantia/CS50X-Final-Project)
 3. Make sure to import and install all pip-installable libraries in "requirements.txt" file.
 4. With all of the above completed, type "flask run" in your terminal and click the link! Enjoy!
 "# CS50X-Final-Project" 
