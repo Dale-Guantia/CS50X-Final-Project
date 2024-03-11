@@ -1,14 +1,14 @@
 {
   "builds": [
     {
-      "src": "CS50X-Final-Project/app.py",
+      "src": "api/app.py",
       "use": "@vercel/python"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "CS50X-Final-Project/app.py"
+      "dest": "api/app.py"
     }
   ]
 }
