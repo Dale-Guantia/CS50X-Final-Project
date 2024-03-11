@@ -1,11 +1,11 @@
-cs50
-Flask
-Flask-Session
-pytz
-requests
-datetime
-numpy
-json
-pillow
-
-- To install these libraries, type "pip install {library name here}" in your terminal, then hit enter.
+cs50==9.3.4
+Flask==3.0.2
+Flask-Session==0.6.0
+pillow==10.2.0
+pytz==2024.1
+requests==2.31.0
+DateTime==5.4
+numpy==1.26.4
+jsons==1.6.3
+jsonlib-python3==1.6.1
+Werkzeug==3.0.1
